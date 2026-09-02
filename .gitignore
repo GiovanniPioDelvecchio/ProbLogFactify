@@ -1,0 +1,5 @@
+# Ignore everything in data/ by default
+data/*
+
+# ...except this one file
+!data/factify_train_500.csv

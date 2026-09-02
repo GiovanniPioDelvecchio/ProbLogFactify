@@ -1,0 +1,12 @@
+deepproblog
+transformers
+open-clip-torch
+Pillow
+pandas
+numpy
+tqdm
+scikit-learn
+requests
+python-dotenv
+matplotlib
+sentence-transformers
